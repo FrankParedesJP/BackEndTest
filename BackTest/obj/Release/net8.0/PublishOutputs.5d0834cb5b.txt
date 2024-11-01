@@ -1,0 +1,11 @@
+D:\ReposTest\BackTest\BackTest\obj\Release\net8.0\PubTmp\Out\BackTest.exe
+D:\ReposTest\BackTest\BackTest\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\ReposTest\BackTest\BackTest\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\ReposTest\BackTest\BackTest\obj\Release\net8.0\PubTmp\Out\BackTest.dll
+D:\ReposTest\BackTest\BackTest\obj\Release\net8.0\PubTmp\Out\BackTest.deps.json
+D:\ReposTest\BackTest\BackTest\obj\Release\net8.0\PubTmp\Out\BackTest.runtimeconfig.json
+D:\ReposTest\BackTest\BackTest\obj\Release\net8.0\PubTmp\Out\BackTest.pdb
+D:\ReposTest\BackTest\BackTest\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\ReposTest\BackTest\BackTest\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\ReposTest\BackTest\BackTest\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ReposTest\BackTest\BackTest\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

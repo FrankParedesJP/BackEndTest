@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\BackTest</_PublishTargetUrl>
+    <History>True|2024-11-01T22:24:28.2707937Z;True|2024-11-01T17:17:37.8420668-05:00;True|2024-11-01T16:58:48.6329143-05:00;True|2024-11-01T16:31:42.5943368-05:00;True|2024-11-01T16:31:26.2743126-05:00;True|2024-11-01T16:10:46.9045784-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
