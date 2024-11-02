@@ -11,7 +11,7 @@ namespace BackTest.Controllers
     {
         private static List<Producto> productos = new List<Producto>
         {
-            new Producto { Id = 1, Nombre = "Producto 1", Precio = 10.00M },
+            new Producto { Id = 1, Nombre = "Producto 1", Precio = 15.00M },
             new Producto { Id = 2, Nombre = "Producto 2", Precio = 20.00M }
         };
 
